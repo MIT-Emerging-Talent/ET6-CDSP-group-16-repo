@@ -1,5 +1,35 @@
 # Domain Research
 
+## ⚠️ Problem Statement
+
+After watching a video where a Black woman shared her traumatic experience
+during and after childbirth, our group was struck by the repeated of
+neglect, miscommunication, and bias in her care.
+
+She described:
+
+- Being ignored when expressing concerns  
+- Clinicians assuming she had undergone FGM without asking  
+- Her pain being downplayed — even when it turned out to be serious
+
+Hearing her story left us deeply uncomfortable and full of questions:
+
+> Why wasn’t she listened to?  
+> Why were assumptions made without proper communication?  
+> Would her experience have been different if she were of another race?
+
+These reflections pushed us to examine how institutional practices may
+fail to serve all patients equally — especially Black women.
+
+This is not an isolated case, but a reflection of a deeper, systemic issue:  
+**institutional racism in maternal healthcare.**
+
+It led us to explore how clinical documentation and healthcare decisions
+may be shaped by unconscious bias — and how this contributes to racial
+disparities in maternal mortality.
+
+---
+
 ## 🧠 Understanding of the Problem Domain
 
 We applied **systems thinking** using the **Iceberg Model** to understand the  
@@ -51,3 +81,18 @@ and government health statistics.
 - Lack of awareness about racism’s role in clinical decision-making.  
 - Historic and persistent medical mistrust from Black communities  
   based on centuries of abuse.
+
+---
+
+## ❓ Research Question
+
+1. **Is there a statistically significant association between higher rates of  
+   maternal morbidity and mortality and being a Black woman?**
+
+2. **To what extent do maternal morbidity and mortality rates differ between  
+   Black women and women of other races?**
+
+3. **How does the language used in clinical notes for Black pregnant women  
+   differ from that used for women of other races, and how are these  
+   linguistic patterns associated with maternal morbidity and mortality  
+   outcomes?**
