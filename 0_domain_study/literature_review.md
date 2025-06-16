@@ -8,7 +8,7 @@ A great deal of research has demonstrated that nearly half of severe maternal mo
 
 ![temp-Image7-Wf-Jwf.avif](https://i.postimg.cc/1t91cCBj/temp-Image7-Wf-Jwf.avif)
 
-## Current Evidence
+## 🔍 Current Evidence
 
 Race is an unscientific, socially constructed taxonomy based on an ideology that views some human population groups as inherently superior to others based on external physical characteristics or geographic origin. While the concept of race is socially meaningful, it has limited biological significance (5). According to Williams et al 1994 (5), racial and ethnic variations in health status result primarily from differences in exposure or vulnerability to behavioral, psychosocial, material, and environmental risk factors and resources.
 
@@ -18,7 +18,7 @@ The Birthrights report (2), analyzing MBRRACE-UK's clinical records of ethnic di
 
 ![temp-Image6-TSaj2.avif](https://i.postimg.cc/FRD5Pyns/temp-Image6-TSaj2.avif)
 
-## Electronic Health Records Gaps and Opportunities
+## 💻 Electronic Health Records Gaps and Opportunities
 
 Health IT can standardize care through protocols, checklists, and clinical decision support systems integrated into EHRs. These tools can reduce disparities by improving adherence to clinical guidelines and reducing biased decision-making (7).
 
@@ -32,7 +32,7 @@ The convergence of computational capabilities with growing awareness of healthca
 
 ![temp-Image-GRW55t.avif](https://i.postimg.cc/Dz6MF2Qx/temp-Image-GRW55t.avif)
 
-## Referances
+## 📚 Referances
 
 1. Fleszar, L. (2023, August 18). _Maternal death rates more than doubled for every racial and ethnic group: Black women hit hardest_. _Fortune_. [https://fortune.com/well/article/black-women-maternal-mortality-rate-increase/](https://fortune.com/well/article/black-women-maternal-mortality-rate-increase/)
 2. Birthrights. (2022). _Systemic racism, not broken bodies: An inquiry into racial injustice and human rights in UK maternity care_.  [https://birthrights.org.uk/wp-content/uploads/2022/05/Birthrights-inquiry-systemic-racism-May-22-web-1.pdf](https://birthrights.org.uk/wp-content/uploads/2022/05/Birthrights-inquiry-systemic-racism-May-22-web-1.pdf)
