@@ -101,7 +101,7 @@ To maintain momentum while promoting independent problem-solving, here is a reco
 - **Next Meeting:** Tuesday, June 10
 - **Objective:** To share findings, discuss insights, and collaboratively select one research topic for deeper exploration.
 
--------------------------
+---
 
 ### Meeting 03
 
@@ -133,7 +133,7 @@ Each team member was assigned a task to complete by the end of the day:
 We also addressed the questions required to complete the retrospective  
 for this milestone.
 
-### Next Steps
+### Next Step
 
 - Reem will assign each task in the project board so we can commit the changes  
   once completed.
