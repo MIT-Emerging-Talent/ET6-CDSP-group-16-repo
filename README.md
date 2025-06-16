@@ -4,24 +4,25 @@
 ![Team](https://img.shields.io/badge/team-all_women-ff69b4.svg)
 ![Focus](https://img.shields.io/badge/focus-health_and_tech-purple.svg)
 
-**The Girl Code** 
-is a multidisciplinary team of women 
-committed to building tech solutions with a social impact. 
-Our project bridges technical skills, critical thinking, 
-effective communication, 
-and empathy to address health-related challenges 
+**The Girl Code**
+is a multidisciplinary team of women
+committed to building tech solutions with a social impact.
+Our project bridges technical skills, critical thinking,
+effective communication,
+and empathy to address health-related challenges
 in innovative and meaningful ways.
 
-We believe in the power of collaboration, mutual respect, 
-and ethical development. 
-We aim to use technology as a tool for well-being, 
+We believe in the power of collaboration, mutual respect,
+and ethical development.
+We aim to use technology as a tool for well-being,
 creating tools that make a real difference in people’s lives.
 
 ---
 
 ## 💡 About This Project
 
-> *Note: This section will be completed as we define the problem, conduct research, and move forward with planning.*
+> *Note: This section will be completed as we define the problem, conduct
+research, and move forward with planning.*
 
 ### 📌 Problem Statement
 
@@ -33,11 +34,13 @@ Find our literature review and research documents in the `0_domain_research` fol
 
 ### 🧠 Understanding of the Problem Domain
 
-*Placeholder: Our team’s current understanding of the problem space (bonus points for systems thinking!).*
+*Placeholder: Our team’s current understanding of the problem space (bonus
+points for systems thinking!).*
 
 ### ❓ Research Question
 
-*Placeholder: A clear, actionable research question shaped by real-world constraints and context.*
+*Placeholder: A clear, actionable research question shaped by real-world
+constraints and context.*
 
 ### 🗂️ Planning Documents
 
@@ -51,6 +54,7 @@ This will include:
 ---
 
 ## 👩‍💻 Meet the Team 👑
+
 ---
 <!-- markdownlint-disable MD033 -->
 <table>
@@ -63,27 +67,32 @@ This will include:
    </thead>
    <tbody>
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/111435149?v=4" width="65" alt="Safa Abuzaid"></td>
+      <td><img src="https://avatars.githubusercontent.com/u/111435149?v=4"
+      width="65" alt="Safa Abuzaid"></td>
       <td>Safaa Osman</td>
       <td><a href="https://github.com/safaabuzaid">safaabuzaid</a></td>
    </tr>
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/142197471?v=4" width="65" alt="Reem Unicorn"></td>
+      <td><img src="https://avatars.githubusercontent.com/u/142197471?v=4"
+      width="65" alt="Reem Unicorn"></td>
       <td>Reem Osama</td>
       <td><a href="https://github.com/reunicorn1">reunicorn1</a></td>
    </tr>
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/143920997?v=4" width="65" alt="Sola Rahamza"></td>
+      <td><img src="https://avatars.githubusercontent.com/u/143920997?v=4"
+      width="65" alt="Sola Rahamza"></td>
       <td>Solara Hamza</td>
       <td><a href="https://github.com/Solarahamza">Solarahamza</a></td>
    </tr>
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/142165150?v=4" width="65" alt="Aseel AbuKmail"></td>
+      <td><img src="https://avatars.githubusercontent.com/u/142165150?v=4"
+      width="65" alt="Aseel AbuKmail"></td>
       <td>Aseel AbuKmail</td>
       <td><a href="https://github.com/Aseel-AbuKmail">Aseel-AbuKmail</a></td>
    </tr>
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/189562848?v=4" width="65" alt="Ana Isabel Murillo"></td>
+      <td><img src="https://avatars.githubusercontent.com/u/189562848?v=4"
+      width="65" alt="Ana Isabel Murillo"></td>
       <td>Ana Isabel Murillo</td>
       <td><a href="https://github.com/AnaiMurillo">AnaiMurillo</a></td>
    </tr>
@@ -95,7 +104,8 @@ This will include:
 
 ## 📈 Project Progress
 
-We manage our workflow using the GitHub Projects board. You can follow our progress here:
+We manage our workflow using the GitHub Projects board. You can follow our
+progress here:
 
 📌 [GitHub Project Board](https://github.com/orgs/MIT-Emerging-Talent/projects/200/views/1)
 
