@@ -73,58 +73,72 @@ and government health statistics.
 ---
 <!-- markdownlint-disable MD033 -->
 <table>
-   <thead>
-      <tr>
-         <th></th>
-         <th><strong>Name</strong></th>
-         <th><strong>GitHub</strong></th>
-      </tr>
-   </thead>
-   <tbody>
-   <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/111435149?v=4"
-
-   plain         width="65"
-            alt="Safa Abuzaid"></td>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>Name</strong></th>
+      <th><strong>GitHub</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/111435149?v=4"
+             width="65"
+             alt="Safa Abuzaid">
+      </td>
       <td>Safaa Osman</td>
-      <td><a href="https://github.com/safaabuzaid">safaabuzaid</a></td>
-   </tr>
-   <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/142197471?v=4"
-
-   plain         width="65"
-            alt="Reem Unicorn"></td>
+      <td>
+        <a href="https://github.com/safaabuzaid">safaabuzaid</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/142197471?v=4"
+             width="65"
+             alt="Reem Unicorn">
+      </td>
       <td>Reem Osama</td>
-      <td><a href="https://github.com/reunicorn1">reunicorn1</a></td>
-   </tr>
-   <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/143920997?v=4"
-
-   plain         width="65"
-            alt="Sola Rahamza"></td>
+      <td>
+        <a href="https://github.com/reunicorn1">reunicorn1</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/143920997?v=4"
+             width="65"
+             alt="Sola Rahamza">
+      </td>
       <td>Solara Hamza</td>
-      <td><a href="https://github.com/Solarahamza">Solarahamza</a></td>
-   </tr>
-   <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/142165150?v=4"
-
-   plain         width="65"
-            alt="Aseel AbuKmail"></td>
+      <td>
+        <a href="https://github.com/Solarahamza">Solarahamza</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/142165150?v=4"
+             width="65"
+             alt="Aseel AbuKmail">
+      </td>
       <td>Aseel AbuKmail</td>
-      <td><a href="https://github.com/Aseel-AbuKmail">Aseel-AbuKmail</a></td>
-   </tr>
-   <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/189562848?v=4"
-
-   plain         width="65"
-            alt="Ana Isabel Murillo"></td>
+      <td>
+        <a href="https://github.com/Aseel-AbuKmail">Aseel-AbuKmail</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/189562848?v=4"
+             width="65"
+             alt="Ana Isabel Murillo">
+      </td>
       <td>Ana Isabel Murillo</td>
-      <td><a href="https://github.com/AnaiMurillo">AnaiMurillo</a></td>
-   </tr>
-   </tbody>
+      <td>
+        <a href="https://github.com/AnaiMurillo">AnaiMurillo</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 <!-- markdownlint-enable MD033 -->
-
 ---
 
 ## 📈 Project Progress
