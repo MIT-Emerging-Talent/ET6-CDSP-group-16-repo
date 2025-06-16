@@ -25,7 +25,6 @@ lives.
 > *Note: This section will be completed as we define the problem, conduct
 research, and move forward with planning.*
 
-
 ### 📌 Problem Statement
 
 ### 📚 Domain Research
@@ -33,7 +32,6 @@ research, and move forward with planning.*
 Find our literature review and research documents in the `0_domain_research` folder.
 
 ### 🧠 Understanding of the Problem Domain
-
 
 We applied **systems thinking** using the **Iceberg Model** to understand
 the  systemic nature of bias against Black pregnant women in healthcare.  
@@ -54,7 +52,6 @@ and government health statistics.
 - Reports of preventable deaths due to misdiagnosis or inaction.  
 - Underreporting or dismissal of pain or complications during  
   prenatal/postnatal care.
-
 
 ### Pattern / Trend
 
@@ -106,7 +103,7 @@ and government health statistics.
    <tr>
       <td><img src="https://avatars.githubusercontent.com/u/111435149?v=4"
 
-            width="65"
+   plain         width="65"
             alt="Safa Abuzaid"></td>
       <td>Safaa Osman</td>
       <td><a href="https://github.com/safaabuzaid">safaabuzaid</a></td>
@@ -114,7 +111,7 @@ and government health statistics.
    <tr>
       <td><img src="https://avatars.githubusercontent.com/u/142197471?v=4"
 
-            width="65"
+   plain         width="65"
             alt="Reem Unicorn"></td>
       <td>Reem Osama</td>
       <td><a href="https://github.com/reunicorn1">reunicorn1</a></td>
@@ -122,7 +119,7 @@ and government health statistics.
    <tr>
       <td><img src="https://avatars.githubusercontent.com/u/143920997?v=4"
 
-            width="65"
+   plain         width="65"
             alt="Sola Rahamza"></td>
       <td>Solara Hamza</td>
       <td><a href="https://github.com/Solarahamza">Solarahamza</a></td>
@@ -130,7 +127,7 @@ and government health statistics.
    <tr>
       <td><img src="https://avatars.githubusercontent.com/u/142165150?v=4"
 
-            width="65"
+   plain         width="65"
             alt="Aseel AbuKmail"></td>
       <td>Aseel AbuKmail</td>
       <td><a href="https://github.com/Aseel-AbuKmail">Aseel-AbuKmail</a></td>
@@ -138,7 +135,7 @@ and government health statistics.
    <tr>
       <td><img src="https://avatars.githubusercontent.com/u/189562848?v=4"
 
-            width="65"
+   plain         width="65"
             alt="Ana Isabel Murillo"></td>
       <td>Ana Isabel Murillo</td>
       <td><a href="https://github.com/AnaiMurillo">AnaiMurillo</a></td>
@@ -150,7 +147,6 @@ and government health statistics.
 ---
 
 ## 📈 Project Progress
-
 
 We manage our workflow using the GitHub Projects board.
 You can follow our progress here:
