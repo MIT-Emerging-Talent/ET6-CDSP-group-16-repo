@@ -55,9 +55,11 @@ To maintain momentum while promoting independent problem-solving, here is a reco
 
 ## Meeting Notes
 
-|    Meeting            |Date                        |  
-|----------------|-------------------------------|
-|[Meeting 01](#meeting-01)|`'8 June 2025'`            |
+| Meeting               | Date                 |
+|----------------------|----------------------|
+| [Meeting 01](#meeting-01) | `'8 June 2025'`     |
+| [Meeting 02](#meeting-02) | `'11 June 2025'`               |
+| [Meeting 03](#meeting-03) | `'15 June 2025'`    |
 
 ### Meeting 01
 
@@ -182,5 +184,45 @@ Continued work is needed to finalize the research question.
   - Present refined research questions.  
   - Debate each idea’s strengths and feasibility.  
   - Agree on a final research topic to pursue.
+
+---
+
+### Meeting 03
+
+**Date:** June 15th, 2025  
+**Attendees:** Solara, Ana, Safaa, Reem  
+**Agenda:** Task division for Milestone 1 deliverables
+
+### Discussion
+
+We discussed the research question based on the topic we agreed to work on:  
+**Bias Against Black Pregnant Women in Healthcare.**
+
+### Task Assignments
+
+Each team member was assigned a task to complete by the end of the day:
+
+- **Solara:** An actionable research question informed by the realities of your problem  
+  domain and your constraints.
+
+- **Ana:** A summary of your group’s understanding of the problem domain.
+
+- **Reem:** A thorough background review of your research domain in the  
+  `0_domain_research` folder of your repository.
+
+- **Safaa:** A problem-statement based on your personal experiences.
+
+### Additional Notes
+
+We also addressed the questions required to complete the retrospective  
+for this milestone.
+
+### Next Step
+
+- Reem will assign each task in the project board so we can commit the changes  
+  once completed.
+
+- All deliverables will be finalized by today, and the problem statement,  
+  group understanding, and research question will be added to the `README.md`.
 
   <!-- markdownlint-enable MD013 -->
