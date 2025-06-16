@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD013 -->
+
 # 💻🌸 The Girl Code – Team Repository
 
 ![Python](https://img.shields.io/badge/technology-python-blue.svg)
@@ -5,25 +7,17 @@
 ![Focus](https://img.shields.io/badge/focus-health_and_tech-purple.svg)
 
 **The Girl Code**
-is a multidisciplinary team of women
-committed to building tech solutions with a social impact.
-Our project bridges technical skills, critical thinking,
-effective communication,
-and empathy to address health-related challenges
-in innovative and meaningful ways.
+is a multidisciplinary team of women committed to building tech solutions with a social impact.
+Our project bridges technical skills, critical thinking, effective communication, and empathy to address health-related challenges in innovative and meaningful ways.
 
-We believe in the power of collaboration, mutual respect,
-and ethical development.
-We aim to use technology as a tool for well-being,
-creating tools that make a real difference in people’s
-lives.
+We believe in the power of collaboration, mutual respect, and ethical development.
+We aim to use technology as a tool for well-being, creating tools that make a real difference in people’s lives.
 
 ---
 
 ## 💡 About This Project
 
-> *Note: This section will be completed as we define the problem, conduct
-research, and move forward with planning.*
+> *Note: This section will be completed as we define the problem, conduct research, and move forward with planning.*
 
 ### 📌 Problem Statement
 
@@ -33,17 +27,14 @@ Find our literature review and research documents in the `0_domain_research` fol
 
 ### 🧠 Understanding of the Problem Domain
 
-We applied **systems thinking** using the **Iceberg Model** to understand
-the  systemic nature of bias against Black pregnant women in healthcare.  
-This model helps us go beyond visible events and explore deeper patterns,  
-structures, and mental models.
+We applied **systems thinking** using the **Iceberg Model** to understand the  systemic nature of bias against Black pregnant women in healthcare.  
+This model helps us go beyond visible events and explore deeper patterns, structures, and mental models.
 
 ### Event (What we see)
 
 Black pregnant women experience  
 **significantly higher maternal morbidity and mortality rates**  
-compared to white women.  
-These outcomes are frequently reported in the media, scientific literature,  
+compared to white women. These outcomes are frequently reported in the media, scientific literature,  
 and government health statistics.
 
 **Examples:**
@@ -55,33 +46,23 @@ and government health statistics.
 
 ### Pattern / Trend
 
-- The maternal mortality rate for Black women in the U.S. is  
-  **3–4 times higher** than that of white women.  
-- Black women face higher risk of complications such as  
-  preeclampsia, cardiomyopathy, and hemorrhage.  
-- Structural stressors, described by the **weathering hypothesis**,  
-  accelerate health deterioration due to chronic exposure to racism  
-  and discrimination.
+- The maternal mortality rate for Black women in the U.S. is **3–4 times higher** than that of white women.  
+- Black women face higher risk of complications such as preeclampsia, cardiomyopathy, and hemorrhage.  
+- Structural stressors, described by the **weathering hypothesis**, accelerate health deterioration due to chronic exposure to racism and discrimination.
 
 ### Structure
 
-- **Lack of culturally competent care** and poor inclusion of equity  
-  in medical protocols.  
-- **Inequitable access to care**, with Black women often having  
-  less access to postpartum services or insurance coverage.  
+- **Lack of culturally competent care** and poor inclusion of equity in medical protocols.  
+- **Inequitable access to care**, with Black women often having less access to postpartum services or insurance coverage.  
 - **Underrepresentation of Black healthcare professionals**.  
-- **Limited bias training** in medical education and institutional denial  
-  of systemic racism in care practices.
+- **Limited bias training** in medical education and institutional denial of systemic racism in care practices.
 
 ### Mental Model
 
-- The false assumption that Black women are more biologically  
-  resistant to pain.  
-- A tendency to blame poor maternal outcomes on individual behavior  
-  instead of systemic failure.  
+- The false assumption that Black women are more biologically resistant to pain.
+- A tendency to blame poor maternal outcomes on individual behavior instead of systemic failure.
 - Lack of awareness about racism’s role in clinical decision-making.  
-- Historic and persistent medical mistrust from Black communities  
-  based on centuries of abuse.
+- Historic and persistent medical mistrust from Black communities based on centuries of abuse.
 
 ### ❓ Research Question
 
@@ -201,5 +182,6 @@ installed and are signed into your GitHub account.
 
 ## Contributing 🪄
 
-Please refer to our [Contributing Guide](CONTRIBUTING.md) for information
-on how to contribute to this project.
+Please refer to our [Contributing Guide](CONTRIBUTING.md) for information on how to contribute to this project.
+
+  <!-- markdownlint-enable MD013 -->
