@@ -100,6 +100,90 @@ To maintain momentum while promoting independent problem-solving, here is a reco
 
 - **Next Meeting:** Tuesday, June 10
 - **Objective:** To share findings, discuss insights, and collaboratively select one research topic for deeper exploration.
+  
+---
+
+### Meeting 02
+
+**Date:** 10th of June
+**Attendees:** Solara, Ana, Safaa, Reem
+
+---
+
+#### Agenda  
+
+Discussion of three shortlisted research ideas and development of potential  
+research questions.
+
+---
+
+#### 1. Overview of Progress  
+
+We have refined our research focus into three main ideas:
+
+- **Digital Biomarkers and Postpartum Depression:** Investigating how digital  
+  biomarkers (from wearables and social media data) can help identify early  
+  symptoms and key risk factors for postpartum depression, focusing on mood  
+  instability.
+
+- **Bias Against Black Pregnant Women in Healthcare:** Examining how gender and  
+  ethnicity bias impacts Black pregnant women, especially related to maternal  
+  morbidity and mortality.
+
+- **Menstrual Hygiene in Humanitarian Settings:** Exploring menstrual hygiene  
+  practices, product types used, and links to UTIs and skin diseases in conflict  
+  and disaster-affected settings.
+
+---
+
+#### 2. Discussion Highlights  
+
+##### A. Digital Biomarkers and Postpartum Depression  
+
+Built on previous discussion by exploring concrete research directions.
+
+**Potential research questions proposed:**  
+
+- Can digital data biomarkers be used to identify early signs of postpartum  
+  depression?  
+- Can digital biomarkers detect early risk factors of postpartum depression?  
+- What digital biomarkers are most effective in identifying mood instability  
+  and potential postpartum depression during the first year after childbirth?
+
+We emphasized investigating which digital indicators are most relevant, and  
+how early detection via wearables or social media can be achieved.
+
+##### B. Bias Against Black Pregnant Women  
+
+Focus on gender and ethnicity bias against Black pregnant women continued.
+
+Discussion led to a more specific direction: examining the relationship between  
+maternal health outcomes (morbidity/mortality) and bias in clinical settings.
+
+Research question is still in development but more clearly defined.
+
+##### C. Menstrual Hygiene in Humanitarian Settings  
+
+Agreed to broaden scope from only conflict zones to include disaster settings  
+for greater inclusivity and flexibility.
+
+Research will focus on:  
+
+- Types and prevalence of menstrual products used and challenges of access.  
+- The relationship between menstrual hygiene and UTIs and skin diseases.
+
+Continued work is needed to finalize the research question.
+
+---
+
+#### 3. Next Steps  
+
+- Each member will conduct a final round of research and begin drafting specific  
+  research questions for the three topics.  
+- Next meeting scheduled for Friday to:  
+  - Present refined research questions.  
+  - Debate each idea’s strengths and feasibility.  
+  - Agree on a final research topic to pursue.
 
 ---
 

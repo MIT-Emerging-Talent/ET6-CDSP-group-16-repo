@@ -16,7 +16,8 @@ These outcomes are frequently reported in the media, scientific literature,
 and government health statistics.
 
 **Examples:**
-- Delayed responses to severe pregnancy symptoms.  
+
+- Delayed responses to severe pregnancy symptoms.
 - Reports of preventable deaths due to misdiagnosis or inaction.  
 - Underreporting or dismissal of pain or complications during  
   prenatal/postnatal care.
