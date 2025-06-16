@@ -81,3 +81,18 @@ and government health statistics.
 - Lack of awareness about racism’s role in clinical decision-making.  
 - Historic and persistent medical mistrust from Black communities  
   based on centuries of abuse.
+
+---
+
+## ❓ Research Question
+
+1. **Is there a statistically significant association between higher rates of  
+   maternal morbidity and mortality and being a Black woman?**
+
+2. **To what extent do maternal morbidity and mortality rates differ between  
+   Black women and women of other races?**
+
+3. **How does the language used in clinical notes for Black pregnant women  
+   differ from that used for women of other races, and how are these  
+   linguistic patterns associated with maternal morbidity and mortality  
+   outcomes?**
